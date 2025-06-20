@@ -3,11 +3,20 @@
 	<name>1trickPwnyta's Floordrawings</name>
 	<author>1trickPwnyta</author>
 	<packageId>floordrawings.1trickPwnyta</packageId>
+	<modVersion>1.0.1</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>
 Adds 1trickPwnyta's Twitch emotes as floordrawings.
+
+=== Updates ===
+06/19/2025: Update to 1.6
+
+=== Credits ===
+Art: twitter.com/mouse_draws
+Mod icon: twitter.com/mouse_draws
 	</description>
 	<url>https://github.com/1trickPwnyta/Floordrawings</url>
 </ModMetaData>
